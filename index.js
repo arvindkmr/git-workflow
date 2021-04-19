@@ -4,6 +4,15 @@ const index = () => {
     return (
         <div>
             index .js
+            index .js
+            index .js
+            index .js
+            index .js
+            index .js
+            index .js
+            index .js
+            index .js
+            index .js
         </div>
     )
 }
